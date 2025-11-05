@@ -130,7 +130,7 @@ Contoso begins by enabling **Azure Backup** for its **Storage Accounts** (Azure 
         - From **Select vault**, choose `Contoso-App-BackupVault` to associate this policy.
         - Click **Next: Schedule + retention**.
 7. On the **Schedule + retention** tab:
-    - Either keep the defaults or Edit the **Backup scehdule and Retention settings** of the data store.
+    - Either keep the defaults or Edit the **Backup schedule and Retention settings** of the data store.
     - esnure both **Operational** and **Vaulted backup** are selected.
 8. Click **Review + create**.
 9. Once the review is successful, click **Create**.
