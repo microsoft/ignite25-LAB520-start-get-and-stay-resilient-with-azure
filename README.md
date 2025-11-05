@@ -41,7 +41,7 @@ By the end of this session, learners will be able to:
 "/><br />
         <sub><b>Akarsh Prabhu
 </b></sub></a><br />
-            <a href="https://github.com/Akarsh Prabhu" title="talk">📢</a> 
+            <a href="https://github.com/akarshprabhu" title="talk">📢</a> 
     </td>
 </tr></table>
 
