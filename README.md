@@ -118,7 +118,7 @@ Contoso begins by enabling **Azure Backup** for its **Storage Accounts** (Azure 
 ### 🛠️ Task 1: Create a Backup Policy
 
 1. Go to *https://aka.ms/OperationsCenterLab* in the browser.
-2. Navigate to the **Operations Center → Resiliency → Backup+Recovery** section in the left TOC.
+2. Navigate to the **Operations Center → Resiliency → Backup + Recovery** section in the left TOC.
 3. Navigate to the **Protection Policies** tab
 4. Select **+Create Policy** and choose **Create backup policy**
 5. On the **Start: Create Policy** page:
@@ -294,7 +294,8 @@ Contoso uses **Microsoft Defender for Cloud (MDC)** to scan its **Virtual Machin
 3. Click **Backup now** to initiate an on-demand backup.
 > It will take upto 30 minutes for the vaulted restore point to show up post the on-demand backup. You can look for any existing restore point in the meanwhile to continue. The restore point needs to be of Recovery type **Snapshot and Vault-Standard**
 
-4. Once the **Backup Recovery Point (RP)** is created:
+4. On the previous **Backup items** screen, for each backup item, you should see a **Source scan summary**. 
+5. If you click on View Details on a specific backup item, for a created **Recovery Point (RP)**, review the **Recent scan status**. This will show as **No threat reported** or **Suspicious**. 
     - Navigate to the **Recovery Points** section. This can be found by clicking on *View details* on the *Backup items* page for your VM. 
     - Identify the **health status** of the backup RP.
 
