@@ -131,7 +131,7 @@ Contoso begins by enabling **Azure Backup** for its **Storage Accounts** (Azure 
         - Click **Next: Schedule + retention**.
 7. On the **Schedule + retention** tab:
     - Either keep the defaults or Edit the **Backup schedule and Retention settings** of the data store.
-    - esnure both **Operational** and **Vaulted backup** are selected.
+    - ensure both **Operational** and **Vaulted backup** are selected.
 8. Click **Review + create**.
 9. Once the review is successful, click **Create**.
 10. You can view the created policy on the Protection policy tab. Make sure to set the datasource type to Azure Blobs (Azure Storage). 
