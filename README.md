@@ -277,7 +277,7 @@ Contoso uses **Microsoft Defender for Cloud (MDC)** to scan its **Virtual Machin
 1. Enable **Defender for Servers P1 or P2** on your subscription:
     - Search for **Defender for Cloud** from the Azure portal.
     - Navigate to **Management > Environment settings** 
-    - Click on **Expand all** to select your subscription at the bottom of the heirarchy.
+    - Click on **Expand all** to select your subscription at the bottom of the hierarchy.
     - Under **Cloud workload protection**, ensure that **Servers** has either **Plan 1** or **Plan 2** enabled. If not, set the Status to '**On**' and click on **Save**.
 2. Search for **Recovery services vaults** on the portal. Go to **Contoso-App-RSVault**.
 3. Under **Settings**, go to **Properties**.
