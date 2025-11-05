@@ -317,7 +317,7 @@ The Contoso application leverages the Azure Security Baselines to **maintain com
 1. Go to **Operations Center → Configuration → Configuration** and familiarize yourself with this page.
 2. In order to keep your infrastructure resilient, you want to ensure all your machines are meeting the **Azure Security Baseline** requirements, your progress can be seen under the **Baseline compliance** block of the page.
 3. To view all the recommendations to apply to your machine click on the **View Details** button within the **Baseline compliance page**.
-4. Navigate to the **Baselines** tab to see all of the rules that are assessed.
+4. Navigate to the **Baselines rules** tab to see all of the rules that are assessed.
 5. Let's make your machine more resilient by keeping it from accessing network drives and drive redirection, in the filter search bar at the top of the page, search for **"Do not allow drive redirection"**
 6. Click on the name of the baseline rule **Do not allow drive redirection** to open up a page with more details about this rule.
 7. Close this overview by clicking the "X" at the top right of the page.
