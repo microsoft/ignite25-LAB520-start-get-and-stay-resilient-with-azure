@@ -358,6 +358,14 @@ Get-Service GCService | Restart-Service
 
 Thank you for completing this lab and learning how to be more resilient on Azure!
 
+---
+
+## Resources & Next Steps
+
+| Resource | Link | Description |
+|----------|------|-------------|
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
