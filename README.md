@@ -21,10 +21,10 @@ By the end of this session, learners will be able to:
 ### 💻 Technologies Used
 
 1. Azure Operations Center
-1. Azure Resilency Center
-1. Azure Backup
-1. Azure Policy
-1. Azure Machine Configuration
+1. [Azure Resilency](https://learn.microsoft.com/en-us/azure/resiliency/)
+1. [Azure Backup](https://learn.microsoft.com/en-us/azure/backup/backup-overview)
+1. [Azure Policy](https://learn.microsoft.com/en-us/azure/governance/policy/overview)
+1. [Azure Machine Configuration](https://learn.microsoft.com/en-us/azure/governance/machine-configuration/overview)
 
 ## Content Owners
 <table>
